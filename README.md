@@ -12,8 +12,3 @@
 ```
 main.c
 ```
-
-```
-DoosKingdom
-FRZN
-```

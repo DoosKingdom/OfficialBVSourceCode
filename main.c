@@ -1,5 +1,7 @@
-// MAKE SURE TO GIVE CREDITS TO DOOSKINGDOM
+// DOOSKINGDOM
 // https://github.com/DoosKingdom
+// you dont gotta really give credits to me but still i would appreciate it if you did :)
+// dont steal for your liking ( i really dont mind )! I would like for you to read this code and LEARN how to write in C. I want you to make a custom system like this. (use this as refrence)!
 
 #include "stdio.h"
 // FRZN SOFTWORKS
@@ -11,7 +13,7 @@ int main(void) {
   int i = 0; //looper_var (change to other number to abandon loop)
   int code = 0;
   int max = 0;
-  int card = 0; //input
+  int chip = 0; //input
   int amount = 1;
   int picker = 0; //choose
   int shoppicker = 0;
@@ -38,18 +40,19 @@ int main(void) {
             amount * 10);
       }
       printf("Please enter chip : ");
-      scanf("%d", &card);
-      if (card == 12345678) {
+      scanf("%d", &chip);
+      if (chip == 12345678) {
         printf("SUCCESS! YOU SHOULD RECIVE %d Battle-Bucks in around 5 mins! "
                "If you dont contact BOOMSTERS SUPPORT!\n",
                max);
         printf("England Gold Has Accepted Your process!\n");
         printf("Battle-Bucks Balance: %d\n", max);
       } else {
-        printf("England Gold Has Declined Your process by chip, %d\n", card);
+        printf("England Gold Has Declined Your process by chip, %d\n", chip);
       }
     }
     if (picker == 2) {
+      // this doesent even work that well. Dont worry about this part!!
       printf("NEW SHOP ITEMS!!!\n");
       printf("1: ELECTRA TELE, %d BB\n", electratele);
       printf("Choose What You Want To Buy: ");
@@ -91,7 +94,4 @@ int main(void) {
     }
       }
 }
-
-// Why are you down here
-
-// OFFICAL CREDITS TO DoosKingdom
+// https://github.com/DoosKingdom

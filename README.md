@@ -6,9 +6,3 @@
 # Credit?
 
 > Honestly I really dont care if you give credit or not. You choose!
-
-
-## Main File:
-```
-main.c
-```

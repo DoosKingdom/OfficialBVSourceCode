@@ -1,5 +1,5 @@
-// DOOSKINGDOM
-// https://github.com/DoosKingdom
+// Nolzz
+// https://github.com/NolzzBetter
 // you dont gotta really give credits to me but still i would appreciate it if you did :)
 // dont steal for your liking ( i really dont mind )! I would like for you to read this code and LEARN how to write in C. I want you to make a custom system like this. (use this as refrence)!
 
@@ -94,4 +94,4 @@ int main(void) {
     }
       }
 }
-// https://github.com/DoosKingdom
+// https://github.com/NolzzBetter

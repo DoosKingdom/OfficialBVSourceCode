@@ -1,4 +1,5 @@
 // Nolzz
+// previously dooskingdom, now nolzz
 // https://github.com/NolzzBetter
 // you dont gotta really give credits to me but still i would appreciate it if you did :)
 // dont steal for your liking ( i really dont mind )! I would like for you to read this code and LEARN how to write in C. I want you to make a custom system like this. (use this as refrence)!
@@ -7,6 +8,7 @@
 // FRZN SOFTWORKS
 int main(void) {
 //THIS SESSION IS MADE BY DOOSKINGDOM
+// previously dooskingdom, now nolzz
 // BV GAME GIVES MORE CREDITS
 
   //var ints
@@ -95,3 +97,4 @@ int main(void) {
       }
 }
 // https://github.com/NolzzBetter
+// previously dooskingdom, now nolzz
